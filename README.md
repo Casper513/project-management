@@ -66,7 +66,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
     Copy this .env if you want to try this project
 </p>
 <pre>
-    APP_NAME=Laravel
+APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:0CuTiJ7EF7w9DF339JxUvWpCSTigIAEkkcDfv2JEno8=
 APP_DEBUG=true
